@@ -16,6 +16,6 @@ main(){
 
     printf("Multiplication of two number %lf",num1*num2);
 
-    printf("Division of two number %.2f",num1/num2)
+    printf("Division of two number %.2f",num1/num2);
 
 }
