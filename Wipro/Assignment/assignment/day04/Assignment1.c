@@ -1,3 +1,5 @@
+/*print the structure given*/
+
 #include <stdio.h>
 
 int main(){
