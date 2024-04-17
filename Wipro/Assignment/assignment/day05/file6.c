@@ -1,4 +1,5 @@
-/*Q3. print Sum of Even and  sum of odd values between 1 to 50*/
+/*Q2. Print series 1, 2, 4, 8, 16, 32, 64. given n = 64
+*/
 
 #include <stdio.h>
 
