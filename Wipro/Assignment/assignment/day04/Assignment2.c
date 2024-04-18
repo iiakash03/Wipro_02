@@ -1,3 +1,5 @@
+/*write a c program that will display the multiplication table of any number that the user enters.*/
+
 #include <stdio.h>
 
 int main(){
